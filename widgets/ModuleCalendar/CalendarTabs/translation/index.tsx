@@ -1,0 +1,6 @@
+export const NAMESPACE = 'CALENDAR_TABS';
+
+export enum KEYS {
+  CALENDAR = 'CALENDAR',
+  PRICE_GRAPH = 'PRICE_GRAPH',
+}

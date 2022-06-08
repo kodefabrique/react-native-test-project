@@ -1,0 +1,6 @@
+export const NAMESPACE = 'WELCOME_CONTENT';
+
+export enum KEYS {
+  TITLE_MODAL = 'TITLE_MODAL',
+  CONTENT_MODAL = 'CONTENT_MODAL',
+}

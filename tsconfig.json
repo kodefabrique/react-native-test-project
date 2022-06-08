@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./app",
+    "outDir": "./build",
+    "target": "esnext",
+    "jsx": "react-native",
+    "lib": ["es6"],
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "allowJs": true
+  },
+  "include": ["app", "index.d.ts"]
+}

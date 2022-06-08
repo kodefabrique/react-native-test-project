@@ -1,0 +1,1 @@
+export { decorateTimeout } from './timeout';

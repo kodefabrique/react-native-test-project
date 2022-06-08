@@ -1,0 +1,10 @@
+image: reactnativecommunity/react-native-android
+
+stages:
+  - check
+
+check:
+  stage: check
+  script:
+    - npm install
+    - npm run publish:check
